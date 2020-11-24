@@ -1,4 +1,4 @@
-# JavaScript Questions
+# Javascript
 
 1. ### What is JavaScript?
 

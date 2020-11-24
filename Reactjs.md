@@ -1,4 +1,4 @@
-# Reactjs Questions
+# Reactjs
 
 1. ### What is React?
 
